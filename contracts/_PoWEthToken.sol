@@ -192,7 +192,7 @@ contract Owned {
 
 // ----------------------------------------------------------------------------
 
-contract __PoWEth is ERC20Interface, Owned {
+contract _PoWEth is ERC20Interface, Owned {
 
     using SafeMath for uint;
     using ExtendedMath for uint;
@@ -261,13 +261,13 @@ contract __PoWEth is ERC20Interface, Owned {
 
     // ------------------------------------------------------------------------
 
-    function __PoWEth() public onlyOwner{
+    function _PoWEth() public onlyOwner{
 
 
 
         symbol = "POWE";
 
-        name = "_PoWEth Token";
+        name = "PoWEth";
 
         decimals = 8;
 
