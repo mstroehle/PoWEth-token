@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
 
-// '_PoWEth Token' contract
+// 'PoWEth' contract
 
 // Mineable ERC20 Token using Proof Of Work
 
@@ -11,7 +11,7 @@ pragma solidity ^0.4.18;
 
 // Symbol      : POWE
 
-// Name        : _PoWEth Token
+// Name        : PoWEth
 
 // Total supply: 100,000,000.00
 
