@@ -84,7 +84,8 @@ npm install -g ethereumjs-testrpc  (https://github.com/ethereumjs/testrpc)
 testrpc
 
 truffle test
-  
 
- 
- 
+
+## Original repo and idea 
+
+0xBitcoin token - https://github.com/0xbitcoin/0xbitcoin-token
